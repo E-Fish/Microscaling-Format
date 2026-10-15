@@ -1,4 +1,4 @@
-mx_ppa/runs/
+vivado_ppa/runs/
 *.log
 *.jou
 .Xil/
