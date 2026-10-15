@@ -1,0 +1,7 @@
+mx_ppa/runs/
+*.log
+*.jou
+.Xil/
+__pycache__/
+.vscode/
+.DS_Store
