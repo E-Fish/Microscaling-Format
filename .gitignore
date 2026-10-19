@@ -5,3 +5,5 @@ vivado_ppa/runs/
 __pycache__/
 .vscode/
 .DS_Store
+vivado_ppa/vivado_ppa
+vivado_ppa/cpp/build/
